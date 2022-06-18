@@ -1,0 +1,14 @@
+[
+    {
+        "id": "2",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/7cd43e687d00a8c853a36baf004b46ec.jpg",
+        "judul": "Boboiboy Api",
+        "deskripsi": "ahoi"
+    },
+    {
+        "id": "3",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/cf8d8486cf2e16c39a99aac7a84e74d7.jpg",
+        "judul": "Boboiboy Blaze",
+        "deskripsi": "ahoi"
+    }
+]
